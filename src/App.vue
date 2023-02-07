@@ -1,6 +1,5 @@
 <template>
-  <img alt="Vue logo" src="./assets/brimreaper.jpg" />
-  <HelloWorld msg="Hello World!" />
+  <HelloWorld/>
 </template>
 
 <script setup>
